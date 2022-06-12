@@ -1,4 +1,14 @@
-# counter-app
+# Counter-app
+A simple counter application which will increment and decrement the count.
+
+### Screenshot
+![Counter App](https://ak.iocoder.in/mimgs/counterapp.jpeg)
+
+## Concepts Covered-:
+#### ->Data & Methods
+#### ->V-on Directive
+#### ->Data Interpolation
+#### ->Event Binding
 
 ## Project setup
 ```
