@@ -13,3 +13,5 @@ Hey everybody i have created this repository to publish few of my vue projects w
 
 ![Comments](https://ak.iocoder.in/mimgs/comments.jpeg)
 
+Thankyou!
+
