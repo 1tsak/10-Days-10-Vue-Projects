@@ -4,8 +4,8 @@
 Hey everybody i have created this repository to publish few of my vue projects which i will create in my learning journey. I will publish them with proper documentation and with comments over each code-piece which will explain you the purpose behaviour and functionality of the code, so that anyone could understand them and learn along also. Feel Free to fork and use this all the best.
 
 ## Projects:
--> Day 1 : Counter Application (12 Jun)
--> Day 2 : My Goals Application (16 Jun)
+#### -> Day 1 : Counter Application (12 Jun)
+#### -> Day 2 : My Goals Application (16 Jun)
 
 
 
